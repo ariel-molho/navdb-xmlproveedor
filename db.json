@@ -1,0 +1,34 @@
+{
+  "xmlProveedor": [
+    {
+      "id": 0,
+      "_id": {
+        "$oid": "5c2e792bc6d26909cca8413b"
+      },
+      "_t": "System.String",
+      "_v": "[{\"name\":\"Aviso\",\"id\":1,\"is_open\":true,\"children\":[{\"name\":\"Id\",\"id\":2,\"is_open\":true},{\"name\":\"Link\",\"id\":3,\"is_open\":true},{\"name\":\"Condition\",\"id\":4,\"is_open\":true},{\"name\":\"Custom_label_0\",\"id\":6,\"is_open\":true},{\"name\":\"google_product_category\",\"id\":7,\"is_open\":true},{\"name\":\"Monto\",\"id\":8,\"is_open\":true},{\"name\":\"Price\",\"id\":9,\"is_open\":true},{\"name\":\"Brand\",\"id\":10,\"is_open\":true},{\"name\":\"Product_type\",\"id\":11,\"is_open\":true},{\"name\":\"Availability\",\"id\":12,\"is_open\":true}]}]",
+      "proveedorId": "5c2e6cbcc6d26909cca84139",
+      "proveedorNombre": "Google"
+    },
+    {
+      "id": 1,
+      "_id": {
+        "$oid": "5c82b11639cda314c80f3cb1"
+      },
+      "_t": "System.String",
+      "_v": "[{\"name\":\"avisos\",\"id\":1,\"is_open\":true,\"parent_node\":0,\"iterator\":false,\"children\":[{\"name\":\"aviso\",\"id\":2,\"is_open\":true,\"parent_node\":1,\"iterator\":true,\"children\":[{\"name\":\"url\",\"id\":3,\"is_open\":true,\"parent_node\":2,\"iterator\":false}]}]}]",
+      "proveedorId": "5c76e395035e1d103cca66a9",
+      "proveedorNombre": "AR | Google Ads | URL Listing"
+    },
+    {
+      "id": 2,
+      "_id": {
+        "$oid": "5d4c7d1fab6dc3122c109bbc"
+      },
+      "_t": "System.String",
+      "_v": "[{\"name\":\"ads\",\"id\":1,\"is_open\":true,\"parent_node\":0,\"iterator\":false,\"multiple\":false,\"children\":[{\"name\":\"ad\",\"id\":2,\"is_open\":true,\"parent_node\":1,\"iterator\":true,\"multiple\":false,\"children\":[{\"name\":\"id\",\"id\":5,\"is_open\":true,\"parent_node\":2,\"iterator\":false,\"multiple\":false},{\"name\":\"img\",\"id\":6,\"is_open\":true,\"parent_node\":5,\"iterator\":false,\"multiple\":false},{\"name\":\"img\",\"id\":4,\"is_open\":true,\"parent_node\":2,\"iterator\":false,\"multiple\":true}]}]}]",
+      "proveedorId": "5d4c6d3dab6dc3122c109b59",
+      "proveedorNombre": "Smartly_Imagenes"
+    }
+  ]
+}
