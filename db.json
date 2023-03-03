@@ -3,10 +3,10 @@
     {
       "id": 0,
       "_id": {
-        "$oid": "5c2e792bc6d26909cca8413b"
+        "$oid": "64022023766f3518a80ce557"
       },
       "_t": "System.String",
-      "_v": "[{\"name\":\"Aviso\",\"id\":1,\"is_open\":true,\"children\":[{\"name\":\"Id\",\"id\":2,\"is_open\":true},{\"name\":\"Link\",\"id\":3,\"is_open\":true},{\"name\":\"Condition\",\"id\":4,\"is_open\":true},{\"name\":\"Custom_label_0\",\"id\":6,\"is_open\":true},{\"name\":\"google_product_category\",\"id\":7,\"is_open\":true},{\"name\":\"Monto\",\"id\":8,\"is_open\":true},{\"name\":\"Price\",\"id\":9,\"is_open\":true},{\"name\":\"Brand\",\"id\":10,\"is_open\":true},{\"name\":\"Product_type\",\"id\":11,\"is_open\":true},{\"name\":\"Availability\",\"id\":12,\"is_open\":true}]}]",
+      "_v": "[{\"name\":\"Aviso\",\"id\":1,\"is_open\":true,\"multiple\":false,\"iterator\":false,\"children\":[{\"name\":\"Id\",\"id\":2,\"is_open\":true,\"multiple\":false,\"iterator\":true},{\"name\":\"Link\",\"id\":3,\"is_open\":true,\"multiple\":false,\"iterator\":false},{\"name\":\"Condition\",\"id\":4,\"is_open\":true,\"multiple\":false,\"iterator\":false},{\"name\":\"Custom_label_0\",\"id\":6,\"is_open\":true,\"multiple\":false,\"iterator\":false},{\"name\":\"google_product_category\",\"id\":7,\"is_open\":true,\"multiple\":false,\"iterator\":false},{\"name\":\"Monto\",\"id\":8,\"is_open\":true,\"multiple\":false,\"iterator\":false},{\"name\":\"Price\",\"id\":9,\"is_open\":true,\"multiple\":false,\"iterator\":false},{\"name\":\"Brand\",\"id\":10,\"is_open\":true,\"multiple\":false,\"iterator\":false},{\"name\":\"Product_type\",\"id\":11,\"is_open\":true,\"multiple\":false,\"iterator\":false},{\"name\":\"Availability\",\"id\":12,\"is_open\":true,\"multiple\":false,\"iterator\":false},{\"name\":\"TestField\",\"id\":13,\"is_open\":true,\"parent_node\":1,\"iterator\":false,\"multiple\":false,\"attributes\":[{\"name\":\"TestAttribute\",\"value\":\"10\"}]}]}]",
       "proveedorId": "5c2e6cbcc6d26909cca84139",
       "proveedorNombre": "Google"
     },
